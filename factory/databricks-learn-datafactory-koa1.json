@@ -1,0 +1,9 @@
+{
+	"name": "databricks-learn-datafactory-koa1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "672aebd1-4fea-4a78-b4de-5b0ec7ef627f",
+		"tenantId": "b323bcb4-6d58-4f25-87bf-6366c3d689af"
+	}
+}
